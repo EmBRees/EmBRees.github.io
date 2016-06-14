@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Emily Beth Rees
+email: emily.rees@utexas.edu
+description: > # this means to ignore newlines until "baseurl:"
+ I have always been fascinated by the natural world around me. As a child sitting amongst the raspberry bushes, I would watch the light dance through the leaves as the busy world of insects conducted itself underfoot. I am now a PhD candidate in the Plant Biology program at the University of Texas Austin under the advisement of Dr. Larry Gilbert. I get to experience this same childhood wonder everyday as I study diversification of plant defenses and the influence these defenses have on insect communities. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "embrees.github.io" # the base hostname & protocol for your site
+twitter_username: EmilyRees13
+github_username:  EmBRees
+
+# Build settings
+markdown: kramdown
