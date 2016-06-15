@@ -1,0 +1,17 @@
+#----------------------
+# About section
+
+blurb: <p><strong>Plants, insects, and coffee. </strong>I have always been fascinated by the natural world around me. As a child sitting amongst the raspberry bushes, I would watch the light dance through the leaves as the busy world of insects conducted itself underfoot. I am now a PhD candidate in the Plant Biology program at the University of Texas Austin under the advisement of Dr. Larry Gilbert. I get to experience this same childhood wonder everyday as I study diversification of plant defenses and the influence these defenses have on insect communities.  </p>
+
+#----------------------
+# Courses section
+courses:
+  - {title: xx, semester: xx, school: xx, description: something., link: courses/temp_course }
+  - {title: xx, semester: xx, school: xx, description: something., link: courses/temp_course }
+  - {title: xx, semester: xx, school: xx, description: something., link: courses/temp_course }
+#----------------------
+# Contact
+contact-info: <p>Emily Beth Rees<br>University of Texas Austin<br>Plant Biology Graduate Program<br>Austin, TX<br>emily.rees@utexas.edu<br>
+
+contact-links:
+  - {contact-text: Github, contact-link: "https://www.google.com", icon: 'favicon.html'}
