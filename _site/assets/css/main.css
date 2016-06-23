@@ -284,7 +284,7 @@ section {
   max-width: 960px;
   margin: 0 auto;
   float: none;
-  padding: 20px 20px; color: black; }
+  padding: 20px 20px;  }
 
 .about-lockup {
   max-width: 860px;
@@ -328,7 +328,8 @@ section {
     .about-lockup .about-txt h3 {
       margin-left: -20px;
       padding-top: 10;
-      text-align: left; color: black; }
+      text-align: left; 
+      color: black; }
 
 @media screen and (max-width: 650px) {
   .about-lockup {
@@ -365,7 +366,8 @@ section {
 
 h3 {
   padding: 0 20px;
-  text-align: left; color: black; }
+  text-align: left; 
+  color: black; }
 
 .alt-section {
   max-width: 920px;
